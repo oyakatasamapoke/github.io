@@ -7,7 +7,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
  <body>
- <body style="background-color:#FF00FF;">
+ <body style="background-color:randomColor;">
  <!----- main ----->
  <article>
  <h1>Ja0お知らせ</h1>
@@ -22,4 +22,8 @@
  <footer></footer>
  <!----- /footer ----->
  </body>
+  var randomColor = "#";
+for(var i = 0; i < 6; i++) {
+    randomColor += (16*Math.random() | 0).toString(16);
+}
 </html>
