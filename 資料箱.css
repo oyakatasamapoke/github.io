@@ -1,0 +1,18 @@
+ table {
+  border-collapse: collapse;
+    background-color:#FFFFFF
+}
+   th, td {
+  border: solid 1px #333;
+}
+ body {
+  height: 500px;
+           background-image: url("https://github.com/oyakatasamapoke/github.io/blob/main/%E5%86%99%E7%9C%9F/Screenshot_20211119-210203_2.png?raw=true");
+  background-size: cover;
+  background-image: url("Screenshot_20211119-210203_2.png");
+            align-items: center;
+         background-color:pink;
+        }
+.資料箱{
+            align: center;
+}
